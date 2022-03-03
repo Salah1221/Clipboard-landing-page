@@ -400,6 +400,7 @@ footer .footer-container > div i {
   cursor: pointer;
   color: var(--dark-grayish-blue);
   transition: color 0.3s;
+  user-select: none;
 }
 footer .footer-container > div i:hover {
   color: var(--strong-cyan);
